@@ -1,0 +1,205 @@
+COS 100 : Communication Skills
+BIT 100 : Computer Fundamentals
+BIT 102 : Introduction to Programming
+BIT 104 : Computer Organization and Architecture I
+BIT 108 : Discrete Mathematics
+COS 103 : Introduction to Critical and Creative Thinking
+BIT 103 : Object Oriented Programming I
+BIT 105 : Data Communication Technologies
+BIT 113 : Artificial Intelligence 
+MAT 109 : Linear Algebra 
+MAT 104 : Calculus I
+BIT 200 : Object Oriented Programming II
+BIT 204 : Data Structures and Algorithms
+BIT 206 : Database Systems
+MAT 200 : Calculus II
+STA 212 : Probability and Statistics for Computer Science
+BIT 201 : Computer Organization and Architecture II
+BIT 203 : Software Testing and Quality Assurance
+BIT 207 : Web Development Technologies
+BIT 209 : Microprocessor and Assembly Language Programming
+BIT 211 : Automata Theory
+BIT 215 : System Analysis and Design
+BIT 217 : Operating Systems
+BIT 205 : Entrepreneurship and Business Planning
+BIT 300 : Computer Networks
+BIT 302 : Software Project Management
+BIT 304 : Advanced Database Systems
+BIT 308 : Design and Analysis of Algorithms
+STA 330 : Numerical Analysis I
+BIT 301 : Compiler Construction
+STA 303 : Simulation and Modelling
+BIT 305 : Computer Graphics
+BIT 319 : Research Methods and Technical Writing
+BIT 311 : Electronic Commerce 
+BIT 412 : Legal and Ethical Issues in Computing
+BIT 414 : Entrepreneurship
+BIT 416 : Computer Systems Security
+BCS 416 : Computer Systems Security
+BIT 418 : Information Systems Managements
+BIK 410 : Distributed Systems
+BIT 312 : Mobile Computing and Wireless Technology
+BIT 321 : Network Management
+BIT 413 : Networked Applications
+BCS 417 : Multimedia Technologies
+BCS 419 : Natural Language Processing
+BCS 411 : Neural Networks
+BCS 413 : Robotics
+BIT 415 : Data Warehouse and Data Mining
+BIT 219 : Enterprise Resource Planning (ERP) Systems
+BIT 411 : Decision Support Systems
+BIT 423 : Information System Auditing
+SSW 205 : Research in Nursing
+MIE 221 : Communicable & Vector Borne Diseases
+CSE 211 : Leadership & Management in Nursing
+ECC 102 : Midwifery III 
+HEH 111 : Medical-Surgical Nursing IV 
+ECE 312 : Gynaecology 
+BIT 113 : Sexual & reproductive health issues
+DPI 401 : Medical- Surgical Nursing II
+BOV 210 : Biostatistics  
+DDM 013 : Human Pathology
+PSY 210 : Epidemiology and Demography
+SCH 240A: Environmental & Occupational Health
+BSP 236 : Paediatrics & Child Health Nursing
+NCO 115 : Psychology
+HPE 210 : Midwifery I 
+HCM 231 : Environmental & Occupational Health
+HCD 211 : Midwifery II
+BMB 312 : Hematology
+BML 213 : Medical Surgical Nursing III 
+BMB 413 : Medical Parasitology
+SSW 205 : Community Health Nursing II
+MIE 221 : Clinical pharmacology
+CSE 211 : Family Planning & Emergency Contraception
+ECC 102 : Immunology 
+HEH 111 : Pathophysiology
+ECE 312 : Clinical Chemistry 
+DPI 401 : Medical physiology I
+BOV 210 : Anatomy
+DDM 013 : Fundamentals of Nursing practice
+PSY 210 : Community Health Nursing 
+REL 211 : Communication and Counseling
+BSP 236 : Medical Sociology & Anthropology 
+NCO 115 : Nutrition and Health  
+HPE 210 : Human Anatomy II
+HCM 234 : Medical Physiology II
+HCD 211 : Medical Bio-chemistry 
+BMB 312 : Medical Micro-biology
+CSC 110 : Fundamentals of computing
+MAT 100 : General Mathematics
+RET 161 : Technical drawing
+SCH 100 : Fundamentals of Chemistry 1
+SPH 110 : State, Society and Development Concept
+ECE 102 : Circuit Theory
+BCS 210 : Object Oriented Programming II 
+BIK 210 : Information Systems Security 
+BIK 211 : Information Systems Development Review Content 
+BIT 216 : Computer Networks 
+BIK 212 : Electronic Commerce 
+BCS 215 : Systems Analysis and Design 
+BIK 213 : Knowledge Management and Electronic Media Systems 
+BIK 220 : Intelligent Systems 
+BCS 221 : Database systems 
+BCS 222 : Research Methods and Technical writing 
+BIK 221 : Entrepreneurship & innovation 
+BIK 224 : Information Systems: Strategy and management 
+BCS 226 : Client/Server Computing 
+BIK 222 : Data Warehousing 
+BIK 310 : Modeling and Simulation 
+BIT 315 : Information Security and Assurance 
+BCS 316 : Database Systems II 
+BCS 311 : Software Engineering 
+BIK 313 : Knowledge Based Systems 
+BCS 314 : Mobile Computing 
+BIK 314 : Business Application Software 
+BIK 320 : Project in Information Systems 
+BIK 322 : Strategic Management of Information Systems 
+BIK 323 : Human Computer Interaction 
+BIT 324 : Computer Networks 
+BIT 326 : Enterprise Computing 
+BIT 327 : Database (DB) Programming 
+BIK 324 : Management and Innovation
+BCS 110 : Fundamentals of computing 
+BCS 111 : Introduction to programming 
+BCS 112 : Discrete Structures 
+BIK 110 : Information Systems Concepts 
+BIK 112 : Introduction to Computer Systems/Fundamentals of Comp Networks 
+BIK 113 : Web Technologies ! 
+ESM 101 : Quantitative skills 
+BCS 120 : Object Oriented Programming 
+BCS 121 : Discrete Structures II 
+BIT 122 : Data structures and Algorithms 
+BCS 123 : Introduction to Internet Technologies 
+BIK 120 : Distributed Information Systems 
+BIK 121 : Principles of Financial Accounting 
+BIK 122 : Management Studies 
+BIK 123 : Foundation of Knowledge Management
+BCS 112 : Discrete Structures 
+MAT 110 : Basic Calculus 
+BCS 116 : Electrical Principles 
+ESM 101 : Quantitative skills 
+BCS 122 : Digital Electronics 
+BCS 123 : Introduction to Internet Technologies 
+MAT 104 : Linear algebra 
+BCS 125 : Programming Languages 
+ESM 104 : Quantitative skills 11 
+MAT 102 : Analytic Geometry
+BCS 212 : Computer Organization and Architecture 
+BCS 213 : Application Development for the Internet 
+STA 205 : Probability and statistics 
+BCS 215 : Systems Analysis and Design 
+BCS 216 : Communication Systems 
+BCS 217 : Introduction to Artificial Intelligence 
+BCS 220 : Automata Theory 
+BCS 221 : Database systems 
+BCS 222 : Research Methods and Technical writing 
+BCS 224 : Principles of Operating systems 
+BCS 225 : Data Structures 
+BCS 226 : Client/Server Computing 
+BCS 227 : Logic Programming
+BCS 310 : Compiler Construction and design 
+BCS 311 : Software Engineering
+BCS 312 : Design and Analysis of Algorithms
+BCS 313 : Computer networks Database systems II
+BCS 314 : Computer Graphics Computer Systems 
+BCS 320 : Security Microprocessor systems 
+BCS 321 : Human Computer Interaction 
+BCS 360 : Interactive Programming with python
+BCS 361 : Data Analysis and techniques
+BCS 362E: Generic Programming in C++
+BCS 367E: Data Warehousing and mining
+BIT 112 : FUNDAMENTALS OF PROGRAMMING 
+BIT 113 : INFORMATION TECHNOLOGY FUNDAMENTALS 
+BIT 114 : ELECTRONIC PRINCIPLES 
+BIT 111 : DISCRETE STRUCTURES 
+MAT 121 : QUANTITATIVE SKILLS 1 
+MAT 102 : DIFFERENTIAL CALCULUS 
+MAT 104 : ANALYTIC GEOMERY 
+STA 126 : LINEAR ALGEBRA I 
+BIT 123 : PLATFORM TECHNOLOGIES  
+BIT 122 : DATA STRUCTRES AND ALGORITHMS 
+BIT 125 : ACCOUNTING PRINCIPLES FOR IT  
+BIT 212 : PLATFORM TECHNOLOGIES 2
+BIT 213 : INTRODUCTION TO DATABASE SYSTEMS 
+BIT 217 : COMPUTER ORGANIZATION AND ARCHITECTURE 
+BIT 211 : SYSTEM ANALYSIS AND DESIGN  
+BIT 214 : WEB SYSTEMS AND TECHNOLOGIES 1
+STA 205 : PROBABILITY AND STATISTICS
+BIT 220 : DATA ANALYSIS TECHNIQUES
+BIT 221 : DATABASE MANAGEMENT SYSTEMS 
+BIT 223 : RESEARCH METHODS AND TECHNICAL WRITING 
+BIT 224 : BUSINESS APPLICATION SOFTWARES
+BIT 225 : NETWORK ADMINISTRATION AND MANAGEMENT 
+BIT 227 : DATA COMMUNICATIONS AND COMPUTER NETWORKS
+BIT 310 : SOFTWARE ENGINEERING
+BIT 311 : OPERATION RESEARCH
+BIT 312 : INFORMATION MANAGEMENT 
+BIT 313 : WEB SYSTEMS AND TECHNOLOGIES 2
+BIT 315 : INFORMATION ASSUARANCE AND SECURITY 1
+BIT 316 : DATABASE ADMINISTRATION
+BIT 317 : WIRELESS AND MOBILE COMPUTING 
+BIT 320 : HUMAN COMPUTER INTERACTIONS 
+BIT 321 : SYSTEM ADMINISTRATION AND MANAGEMENT
+BIT 322 : DATA WAREHOUSING AND MINING 
+BIT 323 : INTERATIVE PROGRAMMING AND TECHNOLOGIES

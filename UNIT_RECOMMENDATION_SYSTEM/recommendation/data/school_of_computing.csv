@@ -1,0 +1,163 @@
+,Unit_code,Unit_name
+0,COS 100, Communication Skills
+1,BIT 100, Computer Fundamentals
+2,BIT 102, Introduction to Programming
+3,BIT 104, Computer Organization and Architecture I
+4,BIT 108, Discrete Mathematics
+5,COS 103, Introduction to Critical and Creative Thinking
+6,BIT 103, Object Oriented Programming I
+7,BIT 105, Data Communication Technologies
+8,BIT 113, Artificial Intelligence 
+9,MAT 109, Linear Algebra 
+10,MAT 104, Calculus I
+11,BIT 200, Object Oriented Programming II
+12,BIT 204, Data Structures and Algorithms
+13,BIT 206, Database Systems
+14,MAT 200, Calculus II
+15,STA 212, Probability and Statistics for Computer Science
+16,BIT 201, Computer Organization and Architecture II
+17,BIT 203, Software Testing and Quality Assurance
+18,BIT 207, Web Development Technologies
+19,BIT 209, Microprocessor and Assembly Language Programming
+20,BIT 211, Automata Theory
+21,BIT 215, System Analysis and Design
+22,BIT 217, Operating Systems
+23,BIT 205, Entrepreneurship and Business Planning
+24,BIT 300, Computer Networks
+25,BIT 302, Software Project Management
+26,BIT 304, Advanced Database Systems
+27,BIT 308, Design and Analysis of Algorithms
+28,STA 330, Numerical Analysis I
+29,BIT 301, Compiler Construction
+30,STA 303, Simulation and Modelling
+31,BIT 305, Computer Graphics
+32,BIT 319, Research Methods and Technical Writing
+33,BIT 311, Electronic Commerce 
+34,BIT 412, Legal and Ethical Issues in Computing
+35,BIT 414, Entrepreneurship
+36,BIT 416, Computer Systems Security
+37,BCS 416, Computer Systems Security
+38,BIT 418, Information Systems Managements
+39,BIK 410, Distributed Systems
+40,BIT 312, Mobile Computing and Wireless Technology
+41,BIT 321, Network Management
+42,BIT 413, Networked Applications
+43,BCS 417, Multimedia Technologies
+44,BCS 419, Natural Language Processing
+45,BCS 411, Neural Networks
+46,BCS 413, Robotics
+47,BIT 415, Data Warehouse and Data Mining
+48,BIT 219, Enterprise Resource Planning (ERP) Systems
+49,BIT 411, Decision Support Systems
+50,BIT 423, Information System Auditing
+51,BCS 210, Object Oriented Programming II 
+52,BIK 210, Information Systems Security 
+53,BIK 211, Information Systems Development Review Content 
+54,BIT 216, Computer Networks 
+55,BIK 212, Electronic Commerce 
+56,BCS 215, Systems Analysis and Design 
+57,BIK 213, Knowledge Management and Electronic Media Systems 
+58,BIK 220, Intelligent Systems 
+59,BCS 221, Database systems 
+60,BCS 222, Research Methods and Technical writing 
+61,BIK 221, Entrepreneurship & innovation 
+62,BIK 224, Information Systems: Strategy and management 
+63,BCS 226, Client/Server Computing 
+64,BIK 222, Data Warehousing 
+65,BIK 310, Modeling and Simulation 
+66,BIT 315, Information Security and Assurance 
+67,BCS 316, Database Systems II 
+68,BCS 311, Software Engineering 
+69,BIK 313, Knowledge Based Systems 
+70,BCS 314, Mobile Computing 
+71,BIK 314, Business Application Software 
+72,BIK 320, Project in Information Systems 
+73,BIK 322, Strategic Management of Information Systems 
+74,BIK 323, Human Computer Interaction 
+75,BIT 324, Computer Networks 
+76,BIT 326, Enterprise Computing 
+77,BIT 327, Database (DB) Programming 
+78,BIK 324, Management and Innovation
+79,BCS 110, Fundamentals of computing 
+80,BCS 111, Introduction to programming 
+81,BCS 112, Discrete Structures 
+82,BIK 110, Information Systems Concepts 
+83,BIK 112, Introduction to Computer Systems/Fundamentals of Comp Networks 
+84,BIK 113, Web Technologies ! 
+85,ESM 101, Quantitative skills 
+86,BCS 120, Object Oriented Programming 
+87,BCS 121, Discrete Structures II 
+88,BIT 122, Data structures and Algorithms 
+89,BCS 123, Introduction to Internet Technologies 
+90,BIK 120, Distributed Information Systems 
+91,BIK 121, Principles of Financial Accounting 
+92,BIK 122, Management Studies 
+93,BIK 123, Foundation of Knowledge Management
+94,BCS 112, Discrete Structures 
+95,MAT 110, Basic Calculus 
+96,BCS 116, Electrical Principles 
+97,ESM 101, Quantitative skills 
+98,BCS 122, Digital Electronics 
+99,BCS 123, Introduction to Internet Technologies 
+100,MAT 104, Linear algebra 
+101,BCS 125, Programming Languages 
+102,ESM 104, Quantitative skills 11 
+103,MAT 102, Analytic Geometry
+104,BCS 212, Computer Organization and Architecture 
+105,BCS 213, Application Development for the Internet 
+106,STA 205, Probability and statistics 
+107,BCS 215, Systems Analysis and Design 
+108,BCS 216, Communication Systems 
+109,BCS 217, Introduction to Artificial Intelligence 
+110,BCS 220, Automata Theory 
+111,BCS 221, Database systems 
+112,BCS 222, Research Methods and Technical writing 
+113,BCS 224, Principles of Operating systems 
+114,BCS 225, Data Structures 
+115,BCS 226, Client/Server Computing 
+116,BCS 227, Logic Programming
+117,BCS 310, Compiler Construction and design 
+118,BCS 311, Software Engineering
+119,BCS 312, Design and Analysis of Algorithms
+120,BCS 313, Computer networks Database systems II
+121,BCS 314, Computer Graphics Computer Systems 
+122,BCS 320, Security Microprocessor systems 
+123,BCS 321, Human Computer Interaction 
+124,BCS 360, Interactive Programming with python
+125,BCS 361, Data Analysis and techniques
+126,BCS 362, Generic Programming in C++
+127,BCS 367, Data Warehousing and mining
+128,BIT 112, FUNDAMENTALS OF PROGRAMMING 
+129,BIT 113, INFORMATION TECHNOLOGY FUNDAMENTALS 
+130,BIT 114, ELECTRONIC PRINCIPLES 
+131,BIT 111, DISCRETE STRUCTURES 
+132,MAT 121, QUANTITATIVE SKILLS 1 
+133,MAT 102, DIFFERENTIAL CALCULUS 
+134,MAT 104, ANALYTIC GEOMERY 
+135,STA 126, LINEAR ALGEBRA I 
+136,BIT 123, PLATFORM TECHNOLOGIES  
+137,BIT 122, DATA STRUCTRES AND ALGORITHMS 
+138,BIT 125, ACCOUNTING PRINCIPLES FOR IT  
+139,BIT 212, PLATFORM TECHNOLOGIES 2
+140,BIT 213, INTRODUCTION TO DATABASE SYSTEMS 
+141,BIT 217, COMPUTER ORGANIZATION AND ARCHITECTURE 
+142,BIT 211, SYSTEM ANALYSIS AND DESIGN  
+143,BIT 214, WEB SYSTEMS AND TECHNOLOGIES 1
+144,STA 205, PROBABILITY AND STATISTICS
+145,BIT 220, DATA ANALYSIS TECHNIQUES
+146,BIT 221, DATABASE MANAGEMENT SYSTEMS 
+147,BIT 223, RESEARCH METHODS AND TECHNICAL WRITING 
+148,BIT 224, BUSINESS APPLICATION SOFTWARES
+149,BIT 225, NETWORK ADMINISTRATION AND MANAGEMENT 
+150,BIT 227, DATA COMMUNICATIONS AND COMPUTER NETWORKS
+151,BIT 310, SOFTWARE ENGINEERING
+152,BIT 311, OPERATION RESEARCH
+153,BIT 312, INFORMATION MANAGEMENT 
+154,BIT 313, WEB SYSTEMS AND TECHNOLOGIES 2
+155,BIT 315, INFORMATION ASSUARANCE AND SECURITY 1
+156,BIT 316, DATABASE ADMINISTRATION
+157,BIT 317, WIRELESS AND MOBILE COMPUTING 
+158,BIT 320, HUMAN COMPUTER INTERACTIONS 
+159,BIT 321, SYSTEM ADMINISTRATION AND MANAGEMENT
+160,BIT 322, DATA WAREHOUSING AND MINING 
+161,BIT 323, INTERATIVE PROGRAMMING AND TECHNOLOGIE

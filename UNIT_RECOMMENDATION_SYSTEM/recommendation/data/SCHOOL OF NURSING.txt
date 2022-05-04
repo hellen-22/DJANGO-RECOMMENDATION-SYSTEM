@@ -1,0 +1,43 @@
+SSW 205 : Research in Nursing
+MIE 221 : Communicable & Vector Borne Diseases
+CSE 211 : Leadership & Management in Nursing
+ECC 102 : Midwifery III 
+HEH 111 : Medical-Surgical Nursing IV 
+ECE 312 : Gynaecology 
+BIT 113 : Sexual & reproductive health issues
+DPI 401 : Medical- Surgical Nursing II
+BOV 210 : Biostatistics  
+DDM 013 : Human Pathology
+PSY 210 : Epidemiology and Demography
+SCH 240A: Environmental & Occupational Health
+BSP 236 : Paediatrics & Child Health Nursing
+NCO 115 : Psychology
+HPE 210 : Midwifery I 
+HCM 231 : Environmental & Occupational Health
+HCD 211 : Midwifery II
+BMB 312 : Hematology
+BML 213 : Medical Surgical Nursing III 
+BMB 413 : Medical Parasitology
+SSW 205 : Community Health Nursing II
+MIE 221 : Clinical pharmacology
+CSE 211 : Family Planning & Emergency Contraception
+ECC 102 : Immunology 
+HEH 111 : Pathophysiology
+ECE 312 : Clinical Chemistry 
+DPI 401 : Medical physiology I
+BOV 210 : Anatomy
+DDM 013 : Fundamentals of Nursing practice
+PSY 210 : Community Health Nursing 
+REL 211 : Communication and Counseling
+BSP 236 : Medical Sociology & Anthropology 
+NCO 115 : Nutrition and Health  
+HPE 210 : Human Anatomy II
+HCM 234 : Medical Physiology II
+HCD 211 : Medical Bio-chemistry 
+BMB 312 : Medical Micro-biology
+CSC 110 : Fundamentals of computing
+MAT 100 : General Mathematics
+RET 161 : Technical drawing
+SCH 100 : Fundamentals of Chemistry 1
+SPH 110 : State, Society and Development Concept
+ECE 102 : Circuit Theory
