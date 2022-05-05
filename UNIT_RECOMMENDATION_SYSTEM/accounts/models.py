@@ -34,8 +34,8 @@ class CustomUserManager(BaseUserManager):
 
 
 class CustomUser(AbstractBaseUser):
-    registration_number = models.CharField(max_length=20, unique=True)
     email = models.EmailField(max_length=20, unique=True)
+    registration_number = models.CharField(max_length=20, unique=True)
     last_login = models.DateTimeField(verbose_name='last_login', auto_now=True)
     date_joined = models.DateTimeField(verbose_name='date_joined', auto_now=True)
     is_admin = models.BooleanField(default=False)
@@ -43,11 +43,11 @@ class CustomUser(AbstractBaseUser):
     is_staff = models.BooleanField(default=False)
     is_superuser = models.BooleanField(default=False)
 
-    USERNAME_FIELD = 'registration_number'
+    USERNAME_FIELD = 'email'
 
     objects = CustomUserManager()
 
-    REQUIRED_FIELDS = ['email']
+    REQUIRED_FIELDS = ['registration_number']
 
     def __str__(self):
         return self.registration_number

@@ -1,0 +1,39 @@
+{% load static %}
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+    <link rel="stylesheet" href="{% static 'css/bootstrap.css' %}">
+    <link rel="stylesheet" href="{% static 'css/site.css' %}">
+    <style>
+        .message{
+            background-color: rgb(214, 189, 211);
+            text-align: center;
+            color: black;
+        }
+    </style>
+
+</head>
+
+<body>
+    <table id="table" class="display" style="width: 100%;">
+        <thead>
+          <tr>
+            {% for header in headers %}
+            <th>{{ header }}</th>
+            {% endfor %}
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            {% for row in data %}
+            <td>{{ row }}</td>
+            {% endfor %}
+          </tr>
+        </tbody>
+      </table>
+</body>
+</html>

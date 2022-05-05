@@ -1,0 +1,75 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    background-image: linear-gradient(66deg, rgb(245, 117, 138), rgb(221, 47, 221)),url(NEEEEW.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    padding: 10px;
+}
+p{
+    font-size: 18px;
+}
+#description{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+}
+#survey-form{
+    background-color: rgb(221, 20, 171);
+    padding: 50px;
+    margin: 0px;
+    border: 1px solid;
+}
+label{
+    display: block;
+    padding: 0 0px 0px 10px;
+    font-size: 18px;
+}
+#range-form label {
+    display: inline-block;
+}
+.container-form{
+    padding: 0px;
+   
+}
+.input{
+    position: relative;
+    padding: 10px 10px 10px 0px;
+    margin: 10;
+    top: 0;
+    left: 10;
+    border: 2px solid #000;
+    border-radius: 5px;
+    background: white;
+}
+#name, #email, #number, #dropdown{
+    position: relative;
+    padding: 10px 10px 10px 0px;
+    margin: 10;
+    top: 0;
+    width: 100%;
+    left: 10;
+    border: 2px solid #000;
+    border-radius: 5px;
+    background: white;
+}
+#submit{
+    width: 100%;
+    background-color: rgb(8, 172, 16);
+    padding: 10px 10px 10px 0px;
+    margin: 10;
+    border: 0px none ;
+    border-radius: 30px;
+}
+#extra{
+    margin: 0px;
+    page-break-after: 0px;
+    width: 100%;
+    height: 80px;
+}
+

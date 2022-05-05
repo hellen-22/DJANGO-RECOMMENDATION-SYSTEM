@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>STUDENT || SIGNUP</title>
+	<title>RECCOMENDATION</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
@@ -26,63 +26,67 @@
 	
 	<div class="limiter">
 		<div class="container-login100">
-			<div class="wrap-login100">
-				<form class="login100-form validate-form" method="POST">
+			<div class="wrap-login100" style="width: 960px !important;">
+				
+				<form class="login100-form validate-form" method="POST" style="width: 750px !important;">
 					<span class="login100-form-title">
-						Student Signup
+						Unit Recommendation
 					</span>
-					{% csrf_token %}
+                    {% csrf_token %}
                     {% include 'include/messages.html' %}
-                    <div class="wrap-input100 validate-input" data-validate = "Valid registration number is required: ex@abc.xyz">
-						<input id="registration_number" class="input100" type="text" name="registration_number" placeholder="Registration Number">
+					<div class="wrap-input100 validate-input" data-validate = "Valid Registration Number is required">
+						<select id="school" class="input100" type="text" name="school" style="border: none !important; outline: none !important;">
+                            <option value="" disabled selected hidden>Select School</option>
+                            <option>School of Computing</option>
+                        </select>
 						<span class="focus-input100"></span>
 						<span class="symbol-input100">
-							<i class="fa fa-envelope" aria-hidden="true"></i>
+							<i  aria-hidden="true"></i>
 						</span>
 					</div>
-
-					<div class="wrap-input100 validate-input" data-validate = "Valid email is required: ex@abc.xyz">
-						<input id="email" class="input100" type="text" name="email" placeholder="Student Email">
+                    <div class="wrap-input100 validate-input" data-validate = "Valid Registration Number is required">
+						<select id="department" class="input100" type="text" name="department" placeholder="Select Department" style="border: none !important; outline: none !important;">
+                            <option>Select Department</option>
+                            <option>Information Technology</option>
+                            <option>Computer Science</option>
+                        </select>
 						<span class="focus-input100"></span>
 						<span class="symbol-input100">
-							<i class="fa fa-envelope" aria-hidden="true"></i>
+							<i  aria-hidden="true"></i>
 						</span>
 					</div>
-
-					<div class="wrap-input100 validate-input" data-validate = "Password is required">
-						<input id="password" class="input100" type="password" name="password" placeholder="Password">
+                    
+                    <div class="wrap-input100 validate-input" data-validate = "Valid Registration Number is required">
+						<select id="year" class="input100" type="text" name="year" placeholder="Year of Study" style="border: none !important; outline: none !important;">
+                            <option>Select Year</option>
+                            <option>Year 3</option>
+                            <option>Year 4</option>
+                        </select>
 						<span class="focus-input100"></span>
 						<span class="symbol-input100">
-							<i class="fa fa-lock" aria-hidden="true"></i>
+							<i  aria-hidden="true"></i>
 						</span>
 					</div>
-
-                    <div class="wrap-input100 validate-input" data-validate = "Password is required">
-						<input id="confirm_password" class="input100" type="password" name="confirm_password" placeholder="Confirm Password">
+                    
+					<div class="wrap-input100 validate-input" data-validate = "Choice is required">
+						<input id="choice" class="input100" type="text" name="choice" placeholder="Choice">
 						<span class="focus-input100"></span>
 						<span class="symbol-input100">
-							<i class="fa fa-lock" aria-hidden="true"></i>
+							<i aria-hidden="true"></i>
 						</span>
 					</div>
 					
 					<div class="container-login100-form-btn">
 						<button class="login100-form-btn">
-							Signup
+							Recommend
 						</button>
 					</div>
-
-					<div class="text-center p-t-12">
-						<span class="txt1">
-							Forgot
-						</span>
-						<a class="txt2" href="#">
-							Username / Password?
-						</a>
-					</div>
+					{% include 'include/recommend.html' %}
+					
 
 					<div class="text-center p-t-136">
-						<a class="txt2" href="{% url 'login'%}">
-							Login to your account
+						<a class="txt2" href="#">
+							Go to register Units
 							<i class="fa fa-long-arrow-right m-l-5" aria-hidden="true"></i>
 						</a>
 					</div>

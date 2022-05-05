@@ -4,6 +4,7 @@ from django.contrib import messages
 from django.contrib.auth.models import auth
 
 def signup(request):
+    
     if request.method == 'POST':
         registration_number = request.POST['registration_number']
         email = request.POST['email']
@@ -23,7 +24,7 @@ def signup(request):
                 user = CustomUser.objects.create_user(registration_number=registration_number, email=email, password=password)
                 user.is_active = False
                 user.save()
-                return redirect('login')
+                return redirect('home')
 
         else:
             messages.info(request, 'Password Does not match')
@@ -35,10 +36,10 @@ def signup(request):
 
 def login(request):
     if request.method == 'POST':
-        registration_number = request.POST['registration_number']
+        email = request.POST['email']
         password = request.POST['password']
 
-        user = auth.authenticate(registration_number=registration_number, password=password)
+        user = auth.authenticate(email=email, password=password)
 
         if user is not None:
             auth.login(request, user)
